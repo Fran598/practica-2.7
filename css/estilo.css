@@ -1,0 +1,48 @@
+body {
+
+    background-color: #bccee2;
+    font-family: "Comic Sans", cursive;
+    
+}
+
+h1 {
+    font-size: 48px;
+    text-align: right;
+}
+
+h2 {
+    font-family: "Comic Sans", cursive;
+    font-size: 40px;
+    font-variant: small-caps;
+}
+
+p {
+
+    font-family: "Comic Sans", cursive;
+    line-height: 200%;
+    text-indent: 3em;
+}
+
+span {
+    
+    color: red;
+    font-family: "Comic Sans", cursive;
+}
+
+strong {
+
+    color: orange;
+
+}
+
+em {
+
+    background-color: rgb(238, 234, 234);
+    color: rgb(12, 131, 12);
+
+}
+
+address {
+    font-size: 15px;
+    text-align: center;
+}
